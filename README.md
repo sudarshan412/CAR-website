@@ -1,3 +1,2 @@
-# AUTO  website
-Html project using css,JS
-#frontend dev
+# AUTO/CAR  website
+FRONTEND project using HTML,CSS,JS
