@@ -132,11 +132,12 @@ background: linear-gradient(90deg, rgba(121,9,9,1) 0%, rgba(121,9,9,1) 0%, rgba(
   .sidenav {
     width: 130px;
     position: relative;
-    height: 800px ;
+    height: 1600px ;
     z-index: 1;
     top: 0px;
     background: #333;
     padding: 8px 0;
+    float: left;
 }
 
 .sidenav a {
@@ -156,4 +157,5 @@ background: linear-gradient(90deg, rgba(121,9,9,1) 0%, rgba(121,9,9,1) 0%, rgba(
 }
 .slideshow-container {
   width: 1200px;
+  float: auto;
 }
